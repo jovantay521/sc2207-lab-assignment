@@ -1,13 +1,12 @@
 INSERT INTO Mall (MallID, Address, NumberOfShops, MallManagementCompanyID, MallName)
 VALUES
-    (301, '101 Compassvale Drive', 120, 1001, 'Orchard Compass Mall'),
-    (302, '202 Marina Bay View', 200, 1004, 'Marina Bay Shopping Centre'),
-    (303, '58 Raffles Avenue', 180, 1003, 'Raffles City Mall'),
-    (304, '39 Tampines Street East', 90, NULL, 'Tampines East Junction'),
-    (305, '67 Serangoon North Avenue', 160, 1005, 'Serangoon North Hub'),
-    (306, '48 Balestier Plaza', 140, 1008, 'Balestier Plaza Mall'),
-    (307, '11 Clementi West Street', 150, 1007, 'Clementi West Shopping Centre'),
-    (308, '200 Sentosa Gateway', 210, 1002, 'Sentosa Gateway Mall'),
-    (309, '33 Bukit Timah Road South', 110, NULL, 'Bukit Timah South Mall'),
-    (310, '15 Changi Business Park Central', 190, 1009, 'Changi Central Mall');
-
+    ('M301', '10 Simei Avenue', 185, 'MMC1001', 'Eastside Plaza'),
+    ('M302', '8 Changi Business Park', 169, 'MMC1002', 'Eastgate Shopping Centre'),
+    ('M303', '5 Pasir Ris Drive', 131, 'MMC1003', 'Northview Galleria'),
+    ('M304', '3 Tampines Central', 217, 'MMC1004', 'Northpoint Mall'),
+    ('M305', '12 Jurong West Street', 218, NULL, 'Westside Plaza'),
+    ('M306', '6 Clementi Loop', 112, 'MMC1006', 'Westgate Shopping Centre'),
+    ('M307', '4 Bukit Batok Central', 119, 'MMC1007', 'Southview Galleria'),
+    ('M308', '2 Toh Tuck Road', 166, 'MMC1008', 'Southpoint Mall'),
+    ('M309', '1 Orchard Turn', 127, 'MMC1009', 'Centralside Plaza'),
+    ('M310', '9 Marina Gardens Drive', 179, 'MMC1010', 'Centralgate Shopping Centre');

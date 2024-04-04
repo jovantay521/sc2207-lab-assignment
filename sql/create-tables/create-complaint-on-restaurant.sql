@@ -1,7 +1,6 @@
 CREATE TABLE ComplaintOnRestaurant (
-    ComplaintID INT,
-    OutletID INT,
-    PRIMARY KEY (ComplaintID, OutletID),
+    ComplaintID VARCHAR(255) PRIMARY KEY,
+    OutletID VARCHAR(255),
     FOREIGN KEY (ComplaintID) REFERENCES Complaint(ComplaintID),
     FOREIGN KEY (OutletID) REFERENCES RestaurantOutlet(OutletID)
 );

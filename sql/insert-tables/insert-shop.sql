@@ -1,12 +1,12 @@
 INSERT INTO Shop (ShopID, Type, MallID)
 VALUES
-    (001, 'Electronics', 301),
-    (002, 'Apparel', 306),
-    (003, 'Footwear', 303),
-    (004, 'Footwear', 303),
-    (005, 'Jewelry', 310),
-    (006, 'Entertainment', 308),
-    (007, 'Grocery', 307),
-    (008, 'Jewelry', 309),
-    (009, 'Beauty', 309),
-    (010, 'Grocery', 310);
+    ('S001', 'Electronics', 'M301'),
+    ('S002', 'Apparel', 'M306'),
+    ('S003', 'Footwear', 'M303'),
+    ('S004', 'Footwear', 'M303'),
+    ('S005', 'Jewelry', 'M310'),
+    ('S006', 'Entertainment', 'M308'),
+    ('S007', 'Grocery', 'M307'),
+    ('S008', 'Jewelry', 'M309'),
+    ('S009', 'Beauty', 'M309'),
+    ('S010', 'Grocery', 'M310');

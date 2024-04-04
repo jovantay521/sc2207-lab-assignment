@@ -1,7 +1,7 @@
 CREATE TABLE DiningRecord (
-    ReceiptID INT PRIMARY KEY,
+    ReceiptID VARCHAR(255) PRIMARY KEY,
     UserID INT,
-    OutletID INT,
+    OutletID VARCHAR(255),
     DateTimeIn DATETIME,
     DateTimeOut DATETIME,
     AmountSpent DECIMAL(10,2),

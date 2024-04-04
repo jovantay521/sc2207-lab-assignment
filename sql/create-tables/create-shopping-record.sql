@@ -1,7 +1,7 @@
 CREATE TABLE ShoppingRecord (
-    InvoiceID INT PRIMARY KEY,
+    InvoiceID VARCHAR(255) PRIMARY KEY,
     UserID INT,
-    ShopID INT,
+    ShopID VARCHAR(255),
     DateTimeIn DATETIME,
     DateTimeOut DATETIME,
     AmountSpent DECIMAL(10,2),

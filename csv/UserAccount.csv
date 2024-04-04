@@ -1,11 +1,21 @@
-UserID,Gender,DateOfBirth,Name
-1001,Male,Wed May 14 1986 00:00:00 GMT+0800 (Singapore Standard Time),John Doe
-1002,Female,Thu Nov 22 1990 00:00:00 GMT+0800 (Singapore Standard Time),Jane Smith
-1003,Male,Wed Feb 05 1975 23:30:00 GMT+0730 (Singapore Standard Time),Adam Johnson
-1004,Female,Sat Jul 30 1988 00:00:00 GMT+0800 (Singapore Standard Time),Emily Brown
-1005,Male,Fri Sep 17 1993 00:00:00 GMT+0800 (Singapore Standard Time),Michael Davis
-1006,Female,Thu Dec 03 1981 23:30:00 GMT+0730 (Singapore Standard Time),Olivia Wilson
-1007,Male,Mon Apr 24 1967 22:30:00 GMT+0730 (Singapore Standard Time),Daniel Miller
-1008,Female,Sat Jan 15 2000 00:00:00 GMT+0800 (Singapore Standard Time),Sophia Garcia
-1009,Male,Wed Mar 08 1995 00:00:00 GMT+0800 (Singapore Standard Time),David Martinez
-1010,Female,Sat Oct 28 1978 23:30:00 GMT+0730 (Singapore Standard Time),Lily Anderson
+1001	Male	1986-05-14	John Doe
+1002	Female	1990-11-22	Jane Smith
+1003	Male	1975-02-06	Adam Johnson
+1004	Female	1988-07-30	Emily Brown
+1005	Male	1993-09-17	Michael Davis
+1006	Female	1981-12-04	Olivia Wilson
+1007	Male	1967-04-25	Daniel Miller
+1008	Female	2000-01-15	Sophia Garcia
+1009	Male	1995-03-08	David Martinez
+1010	Female	1978-10-29	Lily Anderson
+1011	Famale	1990-01-01	Jane Dickerson
+1012	Male	1976-04-18	Lisa Wilson
+1013	Male	1992-07-28	Randall Martinez
+1014	Female	1992-04-22	Jennifer Mason
+1015	Male	1996-01-06	Tony Washington
+1016	Female	1977-03-25	Amber Robinson MD
+1017	Male	1985-10-12	Daniel Blake
+1018	Male	2001-05-26	Mr. Aaron Ramos
+1019	Male	1962-03-05	Matthew Johnson
+1020	Female	2003-09-07	Janet Morales
+1021	Male	2000-04-23	Patrick Kelly

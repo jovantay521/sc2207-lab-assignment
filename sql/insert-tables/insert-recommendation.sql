@@ -1,4 +1,21 @@
--- Inserting sample data into Recommendation table
-INSERT INTO Recommendation (RecommendationID, ValidPeriod, DateIssued, VoucherID, DayPackageID, OutletID, MallID) VALUES
-(1, '2024-04-30', '2024-04-01', 1, 1, 1, 1),
-(2, '2024-04-30', '2024-04-02', 2, 2, 2, 2);
+INSERT INTO Recommendation (RecommendationID, ValidPeriod, DiningVoucherID, PurchaseVoucherID, DayPackageID, RestaurantOutletID, MallID) VALUES
+('R00001', '15 months', 'DVOUCH4120', 'PUVOUCH4799', '100001', 'RO1001', 'M301'),
+('R00002', '12 months', 'DVOUCH3262', 'PUVOUCH4134', '100002', 'RO1003', 'M303'),
+('R00003', '6 months', 'DVOUCH8202', 'PUVOUCH2042', '100003', 'RO1002', 'M302'),
+('R00004', '15 months', 'DVOUCH9326', 'PUVOUCH8593', '100004', 'RO1001', 'M301'),
+('R00005', '12 months', 'DVOUCH2135', 'PUVOUCH6653', '100005', 'RO1009', 'M309'),
+('R00006', '6 months', 'DVOUCH3797', 'PUVOUCH3679', '100006', 'RO1007', 'M307'),
+('R00007', '3 months', 'DVOUCH1100', 'PUVOUCH5810', '100007', 'RO1003', 'M303'),
+('R00008', '12 months', 'DVOUCH2195', 'PUVOUCH6708', '100008', 'RO1005', 'M305'),
+('R00009', '15 months', 'DVOUCH6212', 'PUVOUCH8684', '100009', 'RO1003', 'M303'),
+('R00010', '3 months', 'DVOUCH6935', 'PUVOUCH5476', '100010', 'RO1005', 'M305'),
+('R00011', '15 months', 'DVOUCH5682', 'PUVOUCH2168', '100011', 'RO1003', 'M303'),
+('R00012', '12 months', 'DVOUCH3129', 'PUVOUCH5614', '100012', 'RO1008', 'M308'),
+('R00013', '15 months', 'DVOUCH4521', 'PUVOUCH1741', '100013', 'RO1005', 'M305'),
+('R00014', '12 months', 'DVOUCH6666', 'PUVOUCH8391', '100014', 'RO1009', 'M309'),
+('R00015', '3 months', 'DVOUCH2460', 'PUVOUCH5568', '100015', 'RO1001', 'M301'),
+('R00016', '12 months', 'DVOUCH8845', 'PUVOUCH1622', '100016', 'RO1002', 'M302'),
+('R00017', '15 months', 'DVOUCH7704', 'PUVOUCH1322', '100017', 'RO1011', 'M310'),
+('R00018', '12 months', 'DVOUCH6569', 'PUVOUCH9972', '100018', 'RO1002', 'M302'),
+('R00019', '15 months', 'DVOUCH7201', 'PUVOUCH3346', '100019', 'RO1005', 'M305'),
+('R00020', '12 months', 'DVOUCH4106', 'PUVOUCH2442', '100020', 'RO1004', 'M304');

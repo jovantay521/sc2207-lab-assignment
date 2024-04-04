@@ -1,4 +1,4 @@
 CREATE TABLE MallManagementCompany (
-    MallManagementCompanyID INT PRIMARY KEY,
+    MallManagementCompanyID VARCHAR(255) PRIMARY KEY,
     Address VARCHAR(255)
 );

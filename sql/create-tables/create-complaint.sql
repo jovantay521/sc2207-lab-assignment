@@ -1,5 +1,5 @@
 CREATE TABLE Complaint (
-    ComplaintID INT PRIMARY KEY,
+    ComplaintID VARCHAR(255) PRIMARY KEY,
     FiledDateTime DATETIME,
     Text TEXT,
     Status VARCHAR(255),

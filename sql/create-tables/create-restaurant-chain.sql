@@ -1,4 +1,5 @@
 CREATE TABLE RestaurantChain (
-    RestaurantID INT PRIMARY KEY,
+    RestaurantID VARCHAR(255) PRIMARY KEY,
+    RestaurantChainName VARCHAR(255),
     Address VARCHAR(255)
 );

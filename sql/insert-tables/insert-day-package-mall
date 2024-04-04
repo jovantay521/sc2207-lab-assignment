@@ -1,0 +1,22 @@
+INSERT INTO DayPackageMall (DayPackageID, MallID, RecommendedShop)
+VALUES
+('100001', 'M301', 'Samsung'),
+('100002', 'M303', 'Adidas'),
+('100003', 'M302', 'Zara'),
+('100004', 'M301', 'Apple'),
+('100005', 'M309', 'Innisfree'),
+('100006', 'M307', 'Jaya Grocer'),
+('100007', 'M305', 'Swarvoski'),
+('100008', 'M306', 'Golden Village'),
+('100009', 'M304', 'Nike'),
+('100010', 'M305', 'Pandora'),
+('100011', 'M304', 'New Balance'),
+('100012', 'M308', 'Pandora'),
+('100013', 'M305', 'Tiffany & Co'),
+('100014', 'M310', 'NTUC'),
+('100015', 'M301', 'Sony'),
+('100016', 'M302', 'Forever 21'),
+('100017', 'M309', 'Shiseido'),
+('100018', 'M302', 'H&M'),
+('100019', 'M305', 'Lovisa'),
+('100020', 'M303', 'Asadi');

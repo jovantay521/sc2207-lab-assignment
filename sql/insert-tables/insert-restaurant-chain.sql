@@ -1,11 +1,11 @@
-INSERT INTO RestaurantChain (RestaurantID, Address)
+INSERT INTO RestaurantChain (RestaurantID, RestaurantChainName, Address)
 VALUES
-    (1001, '123 Orchard Road, Singapore 238856'),
-    (1002, '456 Sentosa Gateway, Singapore 098534'),
-    (1003, '789 Raffles Place, Singapore 048625'),
-    (1004, '101 Marina Boulevard, Singapore 018989'),
-    (1005, '234 Serangoon Road, Singapore 218085'),
-    (1006, '567 Tampines Avenue, Singapore 529653'),
-    (1007, '890 Clementi Street, Singapore 129957'),
-    (1008, '321 Balestier Road, Singapore 329765'),
-    (1009, '654 Changi Business Park, Singapore 486849');
+    ('RC1001', 'McD', '10 Simei Avenue'),
+    ('RC1002', 'KFC', '8 Changi Business Park'),
+    ('RC1003', 'Burger King', '5 Pasir Ris Drive'),
+    ('RC1004', 'Subway', '3 Tampines Central'),
+    ('RC1005', 'Starbucks', '12 Jurong West Street'),
+    ('RC1006', 'Pizza Hut', '6 Clementi Loop'),
+    ('RC1007', 'Domino''s Pizza', '4 Bukit Batok Central'),
+    ('RC1008', 'Texas Chicken', '2 Toh Tuck Road'),
+    ('RC1009', 'Popeyes', '1 Orchard Turn');

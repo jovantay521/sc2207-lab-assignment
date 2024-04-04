@@ -1,6 +1,6 @@
 CREATE TABLE Shop (
-    ShopID INT PRIMARY KEY,
-    Type VARCHAR(100),
-    MallID INT,
+    ShopID VARCHAR(255) PRIMARY KEY,
+    Type VARCHAR(255),
+    MallID VARCHAR(255),
     FOREIGN KEY (MallID) REFERENCES Mall(MallID)
 );
