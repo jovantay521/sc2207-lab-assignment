@@ -1,0 +1,1 @@
+-- What are the top 3 highest earning malls and restaurants?

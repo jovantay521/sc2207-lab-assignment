@@ -1,5 +1,12 @@
-
--- Inserting sample data into PackageVoucher table
-INSERT INTO PackageVoucher (VoucherID, PackageDiscount) VALUES
-(1, 25.00),
-(2, 15.00);
+INSERT INTO PackageVoucher (VoucherID, PackageDiscount) 
+VALUES 
+('PVOUCH2043', 35.00),
+('PVOUCH5184', 38.00),
+('PVOUCH4416', 43.00),
+('PVOUCH9159', 22.00),
+('PVOUCH3611', 18.00),
+('PVOUCH4539', 42.00),
+('PVOUCH2428', 11.00),
+('PVOUCH8651', 26.00),
+('PVOUCH4541', 41.00),
+('PVOUCH5581', 24.00);

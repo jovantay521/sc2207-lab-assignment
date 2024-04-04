@@ -1,0 +1,2 @@
+-- Find the most popular day packages where all participants are related to one another as either family
+-- members or members of the same club.

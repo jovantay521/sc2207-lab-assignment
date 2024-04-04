@@ -1,4 +1,22 @@
--- Inserting sample data into Complaint table
-INSERT INTO Complaint (ComplaintID, FiledDateTime, Text, Status, UserID) VALUES
-(1, '2024-04-01 09:00:00', 'Poor service', 'Pending', 1),
-(2, '2024-04-02 10:30:00', 'Defective product', 'Resolved', 2);
+INSERT INTO Complaint (ComplaintID, FiledDateTime, Text, Status, UserID)
+VALUES
+    (0005, '2023-01-09 15:20:57', "The staff at the clothing store were rude and unhelpful.", 'addressed', 1004),
+    (0013, '2023-02-09 08:00:50', "The food at the restaurant was cold and tasted stale.", 'being handled', 1004),
+    (0020, '2023-03-02 15:39:07', "The electronics store sold me a faulty product and refused to provide a refund.", 'addressed', 1002),
+    (0010, '2023-03-12 08:33:22', "The service at the restaurant was extremely slow, and the staff were inattentive.', 'being handled", 1004),
+    (0011, '2023-03-17 05:12:04', "The jewelry store overcharged me for a necklace, and it broke after wearing it for only a few hours.", 'being handled', 1002),
+    (0019, '2023-03-22 11:27:55', "There was a hair in my food at the restaurant, and the waiter was dismissive when I complained.", 'being handled', 1005),
+    (0015, '2023-03-28 12:21:04', "The grocery store had expired products on the shelves, and the cashier was impolite.', 'addressed", 1004),
+    (0016, '2023-04-11 22:14:23', "The portion sizes at the restaurant were much smaller than advertised, and the prices were exorbitant.", 'pending', 1005),
+    (0002, '2023-05-06 02:00:29', "The footwear store sold me shoes that fell apart after just a few days of wear.", 'pending', 1010),
+    (0012, '2023-05-12 21:56:17', "The cleanliness of the restaurant was appalling, and there were pests running around the dining area.", 'being handled', 1007),
+    (0008, '2023-05-22 21:48:25', "The waiter at the restaurant was rude and made inappropriate comments.", 'addressed', 1005),
+    (0004, '2023-06-14 17:01:57', "The entertainment store advertised a sale, but when I went to purchase items, they were all out of stock.", 'being handled', 1002),
+    (0018, '2023-08-30 21:10:45', "The restaurant's restroom was filthy, and there was no soap or hand sanitizer available.", 'addressed', 1002),
+    (0003, '2023-09-12 09:21:23', "The grocery store cashier was extremely slow, causing long queues at the checkout.", 'being handled', 1003),
+    (0007, '2023-09-20 00:14:12', "The food served at the restaurant was not as described on the menu and tasted bland.", 'pending', 1010),
+    (0009, '2023-09-24 15:32:07', "The apparel store had misleading pricing tags, and I ended up paying more than I expected.", 'pending', 1003),
+    (0006, '2023-10-02 05:15:12', "The restaurant manager was unresponsive to my complaints about the poor quality of the food.", 'being handled', 1007),
+    (0001, '2023-10-13 16:03:52', "The footwear store did not have proper sizes available, and the staff were unhelpful.", 'being handled', 1008),
+    (0017, '2023-11-04 20:28:14', "The restaurant's outdoor seating area was dirty, and there were cigarette butts everywhere.", 'pending', 1001),
+    (0014, '2023-11-07 03:02:15', "The beauty store sold me expired makeup products, and they refused to exchange them.", 'pending', 1010);

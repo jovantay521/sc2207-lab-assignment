@@ -1,0 +1,3 @@
+-- Find families who frequently shopped and dined together, with or without day packages. As part of
+-- your output, indicate whether these families use day packages or not. “frequently” means at least 50%
+-- of the time.

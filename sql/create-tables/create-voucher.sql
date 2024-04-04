@@ -1,7 +1,7 @@
 CREATE TABLE Voucher (
-    VoucherID INT PRIMARY KEY,
+    VoucherID VARCHAR(255) PRIMARY KEY,
     DateIssued DATE,
     Description TEXT,
-    Status VARCHAR(50),
+    Status VARCHAR(255),
     ExpiryDates DATE
 );

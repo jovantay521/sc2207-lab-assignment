@@ -1,4 +1,22 @@
--- Inserting sample data into ComplaintOnRestaurant table
-INSERT INTO ComplaintOnRestaurant (ComplaintID, OutletID) VALUES
-(1, 1),
-(2, 2);
+INSERT INTO ComplaintOnRestaurant (ComplaintID, OutletID)
+VALUES
+    (0005, 1005),
+    (0013, 1001),
+    (0020, 1011),
+    (0010, 1006),
+    (0011, 1010),
+    (0019, 1001),
+    (0015, 1011),
+    (0016, 1003),
+    (0002, 1007),
+    (0012, 1004),
+    (0008, 1010),
+    (0004, 1003),
+    (0018, 1005),
+    (0003, 1003),
+    (0007, 1007),
+    (0009, 1005),
+    (0006, 1010),
+    (0001, 1007),
+    (0017, 1002),
+    (0014, 1004);

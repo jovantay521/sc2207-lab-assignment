@@ -1,0 +1,3 @@
+-- Compulsive shoppers are those who have visited a certain mall more than 5 times within a certain
+-- period of time. Find the youngest compulsive shoppers and the amount they spent in total during
+-- December 2023.

@@ -1,0 +1,1 @@
+-- What are the most popular recommendations from the app regarding malls?

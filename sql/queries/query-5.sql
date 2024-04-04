@@ -1,0 +1,2 @@
+-- Find users who have dined in all the restaurants in some malls, but have never dined in any restaurants
+-- in some other malls.

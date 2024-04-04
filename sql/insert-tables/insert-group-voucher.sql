@@ -1,4 +1,12 @@
--- Inserting sample data into GroupVoucher table
-INSERT INTO GroupVoucher (VoucherID, GroupSize, GroupDiscount, UserID, DateTime) VALUES
-(1, 4, 20.00, 1, '2024-04-01 10:00:00'),
-(2, 6, 30.00, 2, '2024-04-02 11:00:00');
+INSERT INTO GroupVoucher (VoucherID, GroupSize, GroupDiscount, UserID, DateTime) 
+VALUES 
+('GVOUCH9602', 1, 26.00, 1001, '2023-04-06 03:35:36'),
+('GVOUCH8946', 8, 14.00, 1002, '2023-12-05 23:18:36'),
+('GVOUCH8974', 4, 11.00, 1003, '2024-03-11 11:55:36'),
+('GVOUCH7659', 5, 32.00, 1004, '2024-02-23 08:28:36'),
+('GVOUCH5757', 8, 35.00, 1005, '2024-02-05 11:35:36'),
+('GVOUCH6779', 7, 19.00, 1006, '2023-12-24 21:42:36'),
+('GVOUCH1184', 7, 29.00, 1007, '2024-02-06 05:42:36'),
+('GVOUCH8155', 8, 12.00, 1008, '2023-08-31 07:20:36'),
+('GVOUCH6274', 5, 13.00, 1009, '2023-11-28 10:36:36'),
+('GVOUCH9055', 7, 25.00, 1010, '2024-01-29 16:45:36');

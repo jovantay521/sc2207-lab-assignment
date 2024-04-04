@@ -1,4 +1,4 @@
 CREATE TABLE PackageVoucher (
-    VoucherID INT PRIMARY KEY,
+    VoucherID VARCHAR(255) PRIMARY KEY,
     PackageDiscount DECIMAL(10,2)
 );
