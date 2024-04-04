@@ -1,0 +1,11 @@
+ReceiptID,UserID,RestaurantOutletID,DateTimeIn,DateTimeOut,AmountSpent,FoodOrdered
+RECEIPT9322,1001,RO001,Sun Jul 23 2023 11:20:25 GMT+0800 (Singapore Standard Time),Sun Jul 23 2023 12:37:25 GMT+0800 (Singapore Standard Time),73.53,Paella
+RECEIPT7802,1002,RO002,Sat Apr 22 2023 12:04:08 GMT+0800 (Singapore Standard Time),Sat Apr 22 2023 14:04:08 GMT+0800 (Singapore Standard Time),37.82,Quiche
+RECEIPT6846,1003,RO003,Sun Jul 30 2023 08:55:20 GMT+0800 (Singapore Standard Time),Sun Jul 30 2023 10:09:20 GMT+0800 (Singapore Standard Time),88.01,Quiche
+RECEIPT6630,1004,RO004,Fri Sep 29 2023 10:00:40 GMT+0800 (Singapore Standard Time),Fri Sep 29 2023 11:05:40 GMT+0800 (Singapore Standard Time),87.87,Steak
+RECEIPT6075,1005,RO005,Tue Jun 27 2023 23:22:10 GMT+0800 (Singapore Standard Time),Tue Jun 27 2023 23:57:10 GMT+0800 (Singapore Standard Time),99.56,Lasagna
+RECEIPT4827,1006,RO006,Fri Nov 10 2023 16:51:21 GMT+0800 (Singapore Standard Time),Fri Nov 10 2023 18:16:21 GMT+0800 (Singapore Standard Time),88.64,Sushi
+RECEIPT4833,1007,RO007,Thu May 18 2023 15:01:34 GMT+0800 (Singapore Standard Time),Thu May 18 2023 15:41:34 GMT+0800 (Singapore Standard Time),78.05,Pasta
+RECEIPT1017,1008,RO009,Thu Jan 25 2024 16:30:09 GMT+0800 (Singapore Standard Time),Thu Jan 25 2024 17:17:09 GMT+0800 (Singapore Standard Time),30.74,Salad
+RECEIPT2314,1009,RO010,Thu Dec 28 2023 17:59:50 GMT+0800 (Singapore Standard Time),Thu Dec 28 2023 19:40:50 GMT+0800 (Singapore Standard Time),47.04,Sandwich
+RECEIPT4928,1010,RO011,Fri Dec 29 2023 04:52:21 GMT+0800 (Singapore Standard Time),Fri Dec 29 2023 05:39:21 GMT+0800 (Singapore Standard Time),18.28,Vegetable Stir Fry

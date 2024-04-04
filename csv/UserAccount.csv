@@ -1,0 +1,11 @@
+UserID,Gender,DateOfBirth,Name
+1001,Male,Wed May 14 1986 00:00:00 GMT+0800 (Singapore Standard Time),John Doe
+1002,Female,Thu Nov 22 1990 00:00:00 GMT+0800 (Singapore Standard Time),Jane Smith
+1003,Male,Wed Feb 05 1975 23:30:00 GMT+0730 (Singapore Standard Time),Adam Johnson
+1004,Female,Sat Jul 30 1988 00:00:00 GMT+0800 (Singapore Standard Time),Emily Brown
+1005,Male,Fri Sep 17 1993 00:00:00 GMT+0800 (Singapore Standard Time),Michael Davis
+1006,Female,Thu Dec 03 1981 23:30:00 GMT+0730 (Singapore Standard Time),Olivia Wilson
+1007,Male,Mon Apr 24 1967 22:30:00 GMT+0730 (Singapore Standard Time),Daniel Miller
+1008,Female,Sat Jan 15 2000 00:00:00 GMT+0800 (Singapore Standard Time),Sophia Garcia
+1009,Male,Wed Mar 08 1995 00:00:00 GMT+0800 (Singapore Standard Time),David Martinez
+1010,Female,Sat Oct 28 1978 23:30:00 GMT+0730 (Singapore Standard Time),Lily Anderson

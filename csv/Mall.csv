@@ -1,0 +1,11 @@
+MallID,Address,NumberOfShops,MallManagementCompanyID,Mall Name
+M301,101 Compassvale Drive,120,MMC1001,Orchard Compass Mall
+M302,202 Marina Bay View,200,MMC1004,Marina Bay Shopping Centre
+M303,58 Raffles Avenue,180,MMC1003,Raffles City Mall
+M304,39 Tampines Street East,90,NULL,Tampines East Junction
+M305,67 Serangoon North Avenue,160,MMC1005,Serangoon North Hub
+M306,48 Balestier Plaza,140,MMC1008,Balestier Plaza Mall
+M307,11 Clementi West Street,150,MMC1007,Clementi West Shopping Centre
+M308,200 Sentosa Gateway,210,MMC1002,Sentosa Gateway Mall
+M309,33 Bukit Timah Road South,110,NULL,Bukit Timah South Mall
+M310,15 Changi Business Park Central,190,MMC1009,Changi Central Mall

@@ -1,0 +1,11 @@
+InvoiceID,UserID,ShopID,DateTimeIn,DateTimeOut,AmountSpent,ItemPurchased
+INV10001S1,1001,S001,Thu Jan 05 2023 10:00:00 GMT+0800 (Singapore Standard Time),Thu Jan 05 2023 12:00:00 GMT+0800 (Singapore Standard Time),50,Power Bak
+INV10002S2,1002,S002,Fri Feb 10 2023 13:30:00 GMT+0800 (Singapore Standard Time),Fri Feb 10 2023 15:30:00 GMT+0800 (Singapore Standard Time),35,T-shirt
+INV10003S3,1003,S003,Wed Mar 15 2023 09:45:00 GMT+0800 (Singapore Standard Time),Wed Mar 15 2023 11:45:00 GMT+0800 (Singapore Standard Time),75,Sneakers
+INV10004S4,1004,S004,Fri Jan 20 2023 11:15:00 GMT+0800 (Singapore Standard Time),Fri Jan 20 2023 13:15:00 GMT+0800 (Singapore Standard Time),20,Sandals
+INV10005S5,1005,S005,Sat Feb 25 2023 14:00:00 GMT+0800 (Singapore Standard Time),Sat Feb 25 2023 16:00:00 GMT+0800 (Singapore Standard Time),40,Necklace
+INV10006S6,1006,S006,Sun Mar 05 2023 12:30:00 GMT+0800 (Singapore Standard Time),Sun Mar 05 2023 14:30:00 GMT+0800 (Singapore Standard Time),60,Movie Ticket
+INV10007S7,1007,S007,Tue Jan 10 2023 08:00:00 GMT+0800 (Singapore Standard Time),Tue Jan 10 2023 10:00:00 GMT+0800 (Singapore Standard Time),10,Bread
+INV10008S8,1008,S008,Wed Feb 15 2023 09:00:00 GMT+0800 (Singapore Standard Time),Wed Feb 15 2023 11:00:00 GMT+0800 (Singapore Standard Time),100,Ring
+INV10009S9,1009,S009,Mon Mar 20 2023 10:45:00 GMT+0800 (Singapore Standard Time),Mon Mar 20 2023 12:45:00 GMT+0800 (Singapore Standard Time),45,Lipstick
+INV10010S10,1010,S010,Wed Jan 25 2023 13:00:00 GMT+0800 (Singapore Standard Time),Wed Jan 25 2023 15:00:00 GMT+0800 (Singapore Standard Time),20,Milk
