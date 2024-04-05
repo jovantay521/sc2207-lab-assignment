@@ -1,12 +1,13 @@
-INSERT INTO Shop (ShopID, Type, MallID)
-VALUES
-    ('S001', 'Electronics', 'M301'),
-    ('S002', 'Apparel', 'M306'),
-    ('S003', 'Footwear', 'M303'),
-    ('S004', 'Footwear', 'M303'),
-    ('S005', 'Jewelry', 'M310'),
-    ('S006', 'Entertainment', 'M308'),
-    ('S007', 'Grocery', 'M307'),
-    ('S008', 'Jewelry', 'M309'),
-    ('S009', 'Beauty', 'M309'),
-    ('S010', 'Grocery', 'M310');
+INSERT INTO Shop (ShopID, Type, MallID) VALUES
+('S001', 'Grocery Store', 'M301'),
+('S002', 'Clothing Store', 'M301'),
+('S003', 'Electronics Store', 'M301'),
+('S004', 'Pharmacy', 'M301'),
+('S005', 'Bookstore', 'M301'),
+('S006', 'Bakery', 'M301'),
+('S007', 'Furniture Store', 'M302'),
+('S008', 'Home Improvement Store', 'M302'),
+('S009', 'Toy Store', 'M302'),
+('S010', 'Sports Store', 'M302'),
+('S011', 'Jewelry Store', 'M302'),
+('S012', 'Pet Store', 'M302');
